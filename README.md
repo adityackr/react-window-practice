@@ -14,3 +14,4 @@ I have learned how to process a long list with [react-window](https://www.npmjs.
 - [VariableSizeGrid](./src/components/variable-size-grid/)
 - [Scrolling Indicators](./src/components/scrolling-indicators/)
 - [Scrolling to an item](./src/components/scrolling-to-item/)
+- [Memorize list items](./src/components/memoize-items/)
